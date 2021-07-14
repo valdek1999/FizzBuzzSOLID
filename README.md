@@ -1,5 +1,7 @@
 # FizzBuzzSOLID
 Классическое приложение FizzBuzz построенное по принципам SOLID на С#
 
-![image](https://user-images.githubusercontent.com/17438672/125670140-5055386c-9e93-45b3-99b4-d0b3df6e31af.png)
+![image](https://user-images.githubusercontent.com/17438672/125670357-1dd23e8c-56c3-4d30-97ef-6a7d23bf13e5.png)
+
+
 
