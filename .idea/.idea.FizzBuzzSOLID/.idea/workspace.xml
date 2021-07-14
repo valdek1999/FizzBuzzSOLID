@@ -13,18 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d61fb59-f719-46bf-831e-a91027f91543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AndStrategy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Condition.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FizzBuzzSOLID.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FizzBuzzSOLID.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ITruth.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Printer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tag.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TagNumRule.cs" afterDir="false" />
-    </list>
+    <list default="true" id="3d61fb59-f719-46bf-831e-a91027f91543" name="Default Changelist" comment="New files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="163ab197-eed6-428f-8c22-3bcce61554f8" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -86,8 +78,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626283400523</updated>
-      <workItem from="1626283449592" duration="152000" />
+      <workItem from="1626283449592" duration="371000" />
     </task>
+    <task id="LOCAL-00001" summary="New files has been added for FizzBuzzSOLID solution">
+      <created>1626283705606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626283705606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New files">
+      <created>1626283781821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626283781821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +115,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="New files has been added for FizzBuzzSOLID solution" />
+    <MESSAGE value="New files" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom" timestamp="1626283799756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283799756" />
+    <state width="1877" height="267" key="GridCell.Tab.0.center" timestamp="1626283799755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283799755" />
+    <state width="1877" height="267" key="GridCell.Tab.0.left" timestamp="1626283799755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283799755" />
+    <state width="1877" height="267" key="GridCell.Tab.0.right" timestamp="1626283799755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283799755" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1626283830828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283830828" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1626283798024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1626283798024" />
   </component>
 </project>
